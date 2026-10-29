@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Ritik Kumar 👋
 
-<!--
-**Ritik0088/Ritik0088** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software & Automation Engineer from Karnal, Haryana. I build automation bots, web apps and GenAI tools.
 
-Here are some ideas to get you started:
+## 💼 Experience
+- **Software / Automation Engineer, Flightpath Infogain** (Jun 2026 to present): Python and Playwright automation
+- **Web Developer, Digierts Solutions** (Jan 2025 to Jan 2026)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+Python · Playwright · JavaScript · React · Node.js · Express · MongoDB (MERN) · FastAPI · LangChain · Groq / OpenAI APIs · Git
+
+## 🚀 Projects
+- **DocQ**: RAG chatbot that answers questions from documents (FastAPI, LangChain, OpenAI/Groq)
+- **[AI Code Analyzer](https://github.com/Ritik0088/ai_code_analyzer_)**: reviews code and explains bugs (React, Node.js, Groq API)
+- **[Excel-Driven Web Form Automation](https://github.com/Ritik0088/Excel-Driven-Web-Form-Automation)**: fills web forms from Excel automatically
+- **[Chat App](https://github.com/Ritik0088/Chat_app)**: real-time chat application
+- **[AI Chatbot](https://github.com/Ritik0088/Ai_chatbot)**: AI chatbot web app
+
+## 📫 Open to
+Automation, web app and AI chatbot projects.
