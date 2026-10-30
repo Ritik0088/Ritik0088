@@ -2,7 +2,9 @@
 
 Software & Automation Engineer from Karnal, Haryana. I build automation bots, web apps and GenAI tools.
 
-🌐 **Portfolio:** [ritik0088.github.io/Portfolio](https://ritik0088.github.io/Portfolio/)
+🌐 **Portfolio:** [ritik0088.github.io/Portfolio](https://ritik0088.github.io/Portfolio/) · 💼 **LinkedIn:** [ritik-kumar-119253287](https://www.linkedin.com/in/ritik-kumar-119253287/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritik-kumar-119253287/)
 
 ## 💼 Experience
 - **Software / Automation Engineer, Flightpath Infogain** (Jun 2026 – present): Python and Playwright automation
